@@ -1,5 +1,8 @@
 # radare2-docker
 
+[![Build Status](https://travis-ci.org/0xBANANA/radare-docker.png?branch=master)](https://travis-ci.org/0xBANANA/radare-docker)
+
+
 Easy to use image for radare2, configurate using the `Makefile`.
 
 Example usage:
