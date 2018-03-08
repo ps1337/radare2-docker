@@ -23,5 +23,5 @@ sudo docker run \
     -v $PWD/radare2rc:/home/r2/.radare2rc \
     -v $PWD/r2-config:/home/r2/.config/radare2 \
     -v $PWD/workdir:/home/r2/workdir \
-bananafett/radare2-docker:latest
+ps1337/radare2-docker:latest
 ```

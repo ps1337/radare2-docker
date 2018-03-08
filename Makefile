@@ -4,7 +4,7 @@ VERSION ?= latest
 # The directory of this file
 DIR := $(shell echo $(shell cd "$(shell  dirname "${BASH_SOURCE[0]}" )" && pwd ))
 
-IMAGE_NAME ?= bananafett/radare2-docker
+IMAGE_NAME ?= ps1337/radare2-docker
 CONTAINER_NAME ?= radare2
 
 # This will output the help for each task

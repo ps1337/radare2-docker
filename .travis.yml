@@ -4,5 +4,5 @@ services:
   - docker
 
 script:
-  - docker build -t bananafett/radare2-docker .
+  - docker build -t ps1337/radare2-docker .
   - docker images
